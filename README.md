@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-2-Way-ANOVA
+# GLM Methods: Multiple Linear Regression & Two Way ANOVA
 
 This repository is about using 2 statistical techniques both from the GLM (General Linear Models) family, namely, Multiple Linear Regression and Two Way ANOVA. We will use these methods to explore and make inferences about 2 data sets of interest. 
 
